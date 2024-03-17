@@ -7,6 +7,7 @@ function ncard(val) {
     // console.log(val);
     return (
         <Card
+            key={val.id}
             imgsrc={val.imgsrc}
             mname={val.moviesName}
             movieslink={val.link}
