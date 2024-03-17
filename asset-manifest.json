@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/Anjulsingh999/Netfilx-App/static/css/main.a92e8e46.css",
+    "main.js": "/Anjulsingh999/Netfilx-App/static/js/main.861b7c5d.js",
+    "index.html": "/Anjulsingh999/Netfilx-App/index.html",
+    "main.a92e8e46.css.map": "/Anjulsingh999/Netfilx-App/static/css/main.a92e8e46.css.map",
+    "main.861b7c5d.js.map": "/Anjulsingh999/Netfilx-App/static/js/main.861b7c5d.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a92e8e46.css",
+    "static/js/main.861b7c5d.js"
+  ]
+}
